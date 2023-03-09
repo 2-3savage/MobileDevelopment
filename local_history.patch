@@ -1,0 +1,4 @@
+diff --git a/app/src/main/java/com/example/mobiledevelopment/db/note.db b/app/src/main/java/com/example/mobiledevelopment/db/note.db
+new file mode 100644
+diff --git a/app/src/main/java/com/example/mobiledevelopment/db/notes.db b/app/src/main/java/com/example/mobiledevelopment/db/notes.db
+deleted file mode 100644
